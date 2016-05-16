@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  Copyright (c) 2014 Qualcomm Technologies, Inc.  All Rights Reserved.
+  Qualcomm Technologies Confidential and Proprietary.
+-->
+
+<permissions>
+    <!-- Access camera -->
+    <permission name="com.qti.permission.VT_CAMERA" >
+        <group gid="camera" />
+    </permission>
+</permissions>
