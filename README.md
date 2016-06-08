@@ -1,4 +1,4 @@
-# msm8916_64 Vendor From Code Aurora
+# msm8916_64 Android 5.1.1 Vendor From Code Aurora
 You also can get this from https://developer.qualcomm.com/hardware/dragonboard-410c/tools orz
 Dowload:https://developer.qualcomm.com/qfile/29636/linux_android_board_support_package_vla.br_.1.2.4-01810-8x16.0-3.zip
 This is the official description:"Use the software, documents and video tutorial resources below to jump start your development with Qualcomm® Snapdragon™ 410 for embedded computing and the DragonBoard™ 410c by Arrow Electronics."
